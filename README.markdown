@@ -2,10 +2,11 @@
 
 ```code
 Updates for jquery-hashchange plugin stopped by Ben (and other contributors) because all new browsers 
-nativelly support the event. This is a fork correcting bugs arrived with new jQuery versions that make 
-this plugin completely unusable. 
+nativelly support the event. This is a fork correcting bugs arrived with new jQuery versions that 
+make this plugin completely unusable. 
 
-You can find Ben's examples and documentation in his repository: https://github.com/cowboy/jquery-hashchange
+You can find Ben's examples and documentation in his repository: 
+https://github.com/cowboy/jquery-hashchange
 
 2013-29-11 fix: As of jQuery 1.9 $.browser used in Ben's code isn't supported anymore. 
 ```
