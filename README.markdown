@@ -1,9 +1,9 @@
 # jQuery hashchange event #
 
 ```code
-Updates for jquery-hashchange plugin stopped by Ben (and other contributors) because all new browsers nativelly 
-support the event. This is a fork correcting bugs arrived with new jQuery versions that make this plugin completely
-unusable. 
+Updates for jquery-hashchange plugin stopped by Ben (and other contributors) because all new browsers 
+nativelly support the event. This is a fork correcting bugs arrived with new jQuery versions that make 
+this plugin completely unusable. 
 
 You can find Ben's examples and documentation in his repository: https://github.com/cowboy/jquery-hashchange
 
